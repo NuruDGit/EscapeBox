@@ -122,7 +122,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.9 }}
-            className="text-brand-ivory/45 text-base font-sora font-light tracking-wide leading-relaxed max-w-md mx-auto mb-14"
+            className="text-brand-ivory/45 text-base font-sora font-light tracking-wide leading-relaxed max-w-xl mx-auto mb-14"
           >
             Experience premium, handmade puzzle boxes delivered directly to your door.
             Solve intricate mechanical mysteries guided by our expert Game Master.
